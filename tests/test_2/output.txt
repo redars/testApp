@@ -1,0 +1,2 @@
+5,5 0.4
+Tower placed at position (3,3)

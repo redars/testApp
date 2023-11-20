@@ -1,0 +1,12 @@
+Tower placed at position (0,4)
+Tower placed at position (0,1)
+A tower can't be placed at position (4,0)
+Tower placed at position (1,2)
+A tower can't be placed at position (1,2)
+Tower placed at position (3,3)
+A tower can't be placed at position (2,2)
+A tower can't be placed at position (0,1)
+A tower can't be placed at position (0,1)
+Tower placed at position (4,2)
+Finding best path between (4, 0) and (1, 0)
+Best path: [(4, 0), (2, 1), (1, 0)]
